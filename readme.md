@@ -1,3 +1,9 @@
 ## JAVASCRIPT ORIENTADO A OBJETOS
 #
 Os fundamentos essenciais sobre POO
+
+COMECE COM:
+- CLASS
+- METHODS
+- STATIC METHODS 
+- INHERANCE
